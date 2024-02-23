@@ -1,0 +1,43 @@
+#Anodos
+net "AN(7)" loc = "G12";
+net "AN(6)" loc = "F13";
+net "AN(5)" loc = "H12";
+net "AN(4)" loc = "G13";
+net "AN(3)" loc = "H13";
+net "AN(2)" loc = "K11";
+net "AN(1)" loc = "J13";
+net "AN(0)" loc = "K12";
+#Display
+net "display(0)" loc = "N15";
+net "display(1)" loc = "L14";
+net "display(2)" loc = "K15";
+net "display(3)" loc = "P14";
+net "display(4)" loc = "P15";
+net "display(5)" loc = "M15";
+net "display(6)" loc = "L15";
+net "display(7)" loc = "K13";
+#Leds
+net "led(0)" loc = "N9";
+net "led(1)" loc = "M5";
+net "led(2)" loc = "M3";
+net "led(3)" loc = "R10";
+net "led(4)" loc = "N8";
+net "led(5)" loc = "R5";
+net "led(6)" loc = "P1";
+net "led(7)" loc = "L2";
+#Salida
+net "salida(0)" loc = "E15";
+net "salida(1)" loc = "C15";
+net "salida(2)" loc = "B14";
+net "salida(3)" loc = "A12";
+net "salida(4)" loc = "B11";
+net "salida(5)" loc = "A9";
+net "salida(6)" loc = "B7";
+net "salida(7)" loc = "A6";
+#Selector
+net "selector(0)" loc = "N2";
+net "selector(1)" loc = "L1";
+#Reloj
+net "clock" loc = "E7";
+#Bip
+net "bip" loc = "C12";
