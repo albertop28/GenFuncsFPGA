@@ -1,7 +1,7 @@
 # Generador de funciones triangular, cuadrada, senoidal y diente de sierra implementada en una FPGA
 Este código no contempla frecuencias variables.
 
-Para cambiar la frecuencia a una variable por un sistema digital exterior como un oscilador simple de cristal, en el archivo .ucf en la variable la línea
+Para cambiar la frecuencia a una variable por un sistema digital exterior como un oscilador simple de cristal, en el archivo .ucf en la línea
 
 net "clock" loc = "E7";
 
