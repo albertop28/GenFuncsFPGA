@@ -8,6 +8,7 @@ net "clock" loc = "E7";
 se debe de cambiar a:
 
 NET "clock" CLOCK_DEDICATED_ROUTE = FALSE;
+
 net "clock" loc = "*nombre del puerto al que se recibe la señal de reloj*";
 
 Lo que se tiene implementado es una "memoria ROM" con datos guardados de 8 bits equivalentes a las 4 funciones implemetadas.
